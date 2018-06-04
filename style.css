@@ -38,7 +38,7 @@ h3 {
     margin-top: 64px;
     text-align: center;
 }
-#footer p {
+#footer p, #header a {
 	display: inline-block;
 	margin: 0 10px 0 10px;
 }
